@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.is-active{
+    color: crimson;
+}
+.is-pending{
+
+}
